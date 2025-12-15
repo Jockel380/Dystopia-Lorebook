@@ -1,5 +1,5 @@
 =========================================================
-DYSTOPIA – LOREBOOK (Vollständige konsolidierte Version)
+DYSTOPIA – LOREBOOK 
 =========================================================
 
 # Inhaltsverzeichnis
@@ -204,24 +204,24 @@ Dieses Kapitel wurde vollständig neu erstellt und optimiert.
 RCMP-Gebäude, 690 Old Princeton Way.
 
 ### Verwaltung & zentrale Infrastruktur
-- **RCMP Hope** – Verwaltung (Henry Walker)  
+- **RCMP Hope** – Verwaltung (Henry Hart)  
   *Zentrum der Siedlung*
 
 - **Home Restaurant, 665 Old Princeton Way**  
-  Küche, Verpflegung, Lager (Michael „Cheesecake“ Turner)  
+  Küche, Verpflegung, Lager (Bernard „Cheesecake“ Croix)  
   30 m südwestlich RCMP
 
 ### Produktion, Werkstätten & Technik
 - **Chevron Gas Station, Old Princeton Way / 6th Ave**  
-  Werkstatt & Techniklager (Ed Jenkins & Andy Russo)  
+  Werkstatt & Techniklager (Edward "Ed" Jenkins & Andrea "Andy" Russo)  
   350 m westlich RCMP
 
 - **Hope Bottle Depot, 517A Corbett Street**  
-  Hochregallager, Gefahrstofflager (Jenkins & Russo)  
+  Hochregallager, Gefahrstofflager (Edward "Ed" Jenkins & Andrea "Andy" Russo)  
   600 m westlich RCMP
 
 - **Hope Electric Substation, 1100 7th Ave**  
-  Energiezentrale & Batteriespeicher (Jenkins)  
+  Energiezentrale & Batteriespeicher (Edward "Ed" Jenkins)  
   600 m nördlich RCMP
 
 ### Nahrung, Anbau & Medizin
@@ -234,7 +234,7 @@ RCMP-Gebäude, 690 Old Princeton Way.
   500–1000 m nördlich RCMP
 
 - **Fraser Canyon Hospital, 1275 7th Ave**  
-  Clinic, OP-Bereich, Lager (Dr. Sanders & Kim Conners)  
+  Clinic, OP-Bereich, Lager (Dr. Neil "Doc" Sanders & Kim Conners)  
   500 m nordöstlich RCMP
 
 ### Wissen, Ausbildung & Dokumentation
@@ -243,16 +243,16 @@ RCMP-Gebäude, 690 Old Princeton Way.
   190 m nördlich RCMP
 
 - **School District No. 78, 650 Kawkawa Lake Rd**  
-  Schulungs- und Wissenseinheit (Nate Broderick)  
+  Schulungs- und Wissenseinheit (Nathaniel "Nate" Broderick)  
   450 m nördlich RCMP
 
 ### Wohnbereiche der Siedler
 - **Coquihalla Motel, 724 Old Princeton Way**  
-  Wohnsitz von Henry Walker, Rose Hart, Doc Sanders, Kim Conners, Nate Broderick, Cheesecake  
+  Wohnsitz von Henry Hart, Rose Hart, Neil Sanders, Kim Conners, Nate Broderick, Cheesecake  
   100 m östlich RCMP
 
 - **Heritage Inn, 570 Old Princeton Way**  
-  Wohnsitz von Ed Jenkins, Andy Russo, Zoe Stark, Marcus Cruz, Wexler, Lara Cooper  
+  Wohnsitz von Edward Jenkins, Andrea Russo, Zoe Stark, Marcus Cruz, Elias Wexler, Lara Cooper  
   400 m westlich RCMP
 
 ### Sicherheitsstruktur / Tore
@@ -267,7 +267,7 @@ RCMP-Gebäude, 690 Old Princeton Way.
 ## 8.2 Regionen & Entfernungsrouten rund um Hope
 =========================================================
 
-*(aus Klarheit nicht erneut eingefügt – exakt wie in deiner Datei, bereits geprüft, konsistent und übernommen!)*
+
 
 ---
 
