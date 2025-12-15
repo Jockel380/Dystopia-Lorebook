@@ -244,14 +244,13 @@ RCMP-Gebäude, 690 Old Princeton Way.
   Schulungs- und Wissenseinheit (Nathaniel "Nate" Broderick)  
   450 m nördlich RCMP
 
-### Wohnbereiche der Siedler
 - **Coquihalla Motel, 724 Old Princeton Way**  
-  Wohnsitz von Henry Hart, Rose Hart, Neil Sanders, Kim Conners, Nate Broderick, Cheesecake  
-  100 m östlich RCMP
+  Wohnsitz von Henry Hart, Rose Hart, Dr. Neil "Doc" Sanders, Kim Conners, Nathaniel "Nate" Broderick, Bernard "Cheesecake" Croix  
+  ca. 100 m östlich RCMP  
 
 - **Heritage Inn, 570 Old Princeton Way**  
-  Wohnsitz von Edward Jenkins, Andrea Russo, Zoe Stark, Marcus Cruz, Elias Wexler, Lara Cooper  
-  400 m westlich RCMP
+  Wohnsitz von Edward "Ed" Jenkins, Andrea "Andy" Russo, Zoe Stark, Antonella "Toni" Cruz, Elias "Trace" Wexler, Lara Cooper  
+  ca. 400 m westlich RCMP 
 
 ### Sicherheitsstruktur / Tore
 - **Tor A – Osttor**, 900 Old Princeton Way  
