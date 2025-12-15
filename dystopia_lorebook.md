@@ -25,11 +25,13 @@ DYSTOPIA – LOREBOOK
    5.5 Anbauplan  
 
 6. Ressourcen & Herstellung  
-   6.1 Blei & Munition  
+   6.1 Blei & Altmaterial  
    6.2 Chemische Grundlagen  
-   6.3 Mechaniken & Prozesslogik  
+   6.3 Mechaniken & Prozesslogik
+   6.4 Waffen & Munition
+   6.5 Brandmittel & Fallen
 
-7. Survival & Alltagssysteme  
+8. Survival & Alltagssysteme  
    7.1 Kleidung & Schutz  
    7.2 Wasser  
    7.3 Nahrungskonservierung  
@@ -39,14 +41,14 @@ DYSTOPIA – LOREBOOK
    7.7 Medizinische Grundlagen  
    7.8 Kommunikation  
 
-8. Geografie & Entfernungslogik  
+9. Geografie & Entfernungslogik  
    8.1 Interne Karte Hope (Gebäude & Funktionen)  
    8.2 Regionen & Entfernungsrouten  
    8.3 Siedlungen & Fraktionen  
 
-9. Ökologie & Tiere  
-10. Regeln der Welt  
-11. Glossar
+10. Ökologie & Tiere  
+11. Regeln der Welt  
+12. Glossar
 
 =========================================================
 
@@ -148,9 +150,9 @@ Saisonplanung, Risikomanagement, Arbeitsaufwand, Lagerfähigkeit.
 
 # 6. Ressourcen & Herstellung
 
-## 6.1 Blei & Munition
+## 6.1 Blei & Altmaterial
 Quellen: Rohre, Batterien, Gewichte, Altmetall.  
-Nutzung: Kugeln, Reparaturen.
+Nutzung: Reparaturen, Ersatzteile.
 
 ## 6.2 Chemische Grundlagen
 Natronlauge: Asche + Wasser → filtrieren → eindicken.
@@ -160,7 +162,22 @@ Natronlauge: Asche + Wasser → filtrieren → eindicken.
 - Energie limitiert  
 - Transport ist teuer  
 - Medizin rudimentär  
-- Technik folgt realistischen physikalischen Grenzen  
+- Technik folgt realistischen physikalischen Grenzen
+
+## 6.4 Waffen & Munition
+- keine modernen Waffen
+- vereinzelt alte Jagdgewehre und Flinten; Munition sehr selten
+- typische Waffen: Äxte, Messer, improvisierte Speere, Bögen, Armbrüste, Schleudern
+- typische Munition: Pfeile, Bolzen, Steine für Schleudern
+
+## 6.5 Brandmittel & Fallen
+- keine Sprengstoffe, keine Granaten, keine Minen
+- keine Herstellung von Schwarzpulver
+- nutzbare Mittel:
+   - einfache Brandflaschen (Öl oder Alkohol)
+   - mechanische Fallen (Fallgruben, Speerfallen, Federfallen)
+   - Hindernisse wie Nagelbretter und Stolperdrähte
+- Explosionen nur als Unfall durch beschädigte Gasflaschen oder Druckbehälter, nicht als Waffen
 
 ---
 
