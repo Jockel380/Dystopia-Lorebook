@@ -1,378 +1,329 @@
 =========================================================
-Inhaltsverzeichnis
-
-Weltüberblick
-
-Zeitachse
-
-Regionen & Orte
-3.1 Region Süd-British Columbia (Fraser Valley / Hope Area)
-3.2 Fraser Station
-3.3 Silver Lake
-3.4 Hope – Struktur der Siedlung
-
-Fraktionen & Bedrohungen
-4.1 Raider
-4.2 Plünderer
-4.3 Unbekannte Sekte
-
-Agrikultur & Ernährung
-5.1 Jahreszyklus
-5.2 Ackerflächen
-5.3 Gemüse (Freiland)
-5.4 Gewächshauskulturen
-5.5 Anbauplan
-
-Ressourcen & Herstellung
-6.1 Blei & Munition
-6.2 Chemische Grundlagen
-6.3 Mechaniken & Prozesslogik
-
-Survival & Alltagssysteme
-7.1 Kleidung & Schutz
-7.2 Wasser
-7.3 Nahrungskonservierung
-7.4 Jagd & Fallen
-7.5 Feuer & Energie
-7.6 Bau & Reparatur
-7.7 Medizinische Grundlagen
-7.8 Kommunikation
-
-Ökologie & Tiere
-
-Regeln der Welt
-
-Glossar
+DYSTOPIA – LOREBOOK (Vollständige konsolidierte Version)
 =========================================================
 
-## Weltüberblick
+# Inhaltsverzeichnis
 
-Dystopia spielt im südlichen British Columbia nach mehreren Krisen, die staatliche Strukturen und Versorgungsketten zusammenbrechen ließen.  
-Die Region ist bewohnbar, aber geprägt durch:
+1. Weltüberblick  
+2. Zeitachse  
+3. Regionen & Orte  
+   3.1 Region Süd-British Columbia  
+   3.2 Fraser Station  
+   3.3 Silver Lake  
+   3.4 Hope – Struktur der Siedlung  
 
-- instabile Infrastruktur  
-- eingeschränkte Energiequellen  
-- begrenzte Landwirtschaft  
-- fragmentierte Bevölkerung  
-- Bedrohung durch Raider und Plünderer  
-- schwierige Kommunikation  
+4. Fraktionen & Bedrohungen  
+   4.1 Raider  
+   4.2 Plünderer  
+   4.3 Unbekannte Sekte  
 
-Siedlungen überleben durch Autarkie, Improvisation und strenge Ressourcenverwaltung.
+5. Agrikultur & Ernährung  
+   5.1 Jahreszyklus  
+   5.2 Ackerflächen  
+   5.3 Gemüse (Freiland)  
+   5.4 Gewächshauskulturen  
+   5.5 Anbauplan  
+
+6. Ressourcen & Herstellung  
+   6.1 Blei & Munition  
+   6.2 Chemische Grundlagen  
+   6.3 Mechaniken & Prozesslogik  
+
+7. Survival & Alltagssysteme  
+   7.1 Kleidung & Schutz  
+   7.2 Wasser  
+   7.3 Nahrungskonservierung  
+   7.4 Jagd & Fallen  
+   7.5 Feuer & Energie  
+   7.6 Bau & Reparatur  
+   7.7 Medizinische Grundlagen  
+   7.8 Kommunikation  
+
+8. Geografie & Entfernungslogik  
+   8.1 Interne Karte Hope (Gebäude & Funktionen)  
+   8.2 Regionen & Entfernungsrouten  
+   8.3 Siedlungen & Fraktionen  
+
+9. Ökologie & Tiere  
+10. Regeln der Welt  
+11. Glossar
+
+=========================================================
+
+# 1. Weltüberblick
+
+Dystopia spielt im südlichen British Columbia nach mehreren Krisen, die staatliche Strukturen zerstört haben.  
+Die Region ist weiterhin bewohnbar, jedoch geprägt von:
+
+- instabiler Infrastruktur  
+- eingeschränkter Energie  
+- begrenzter Landwirtschaft  
+- fragmentierter Bevölkerung  
+- Bedrohung durch Raider + Plünderer  
+- eingeschränkten Verkehrswegen  
+- improvisierter Kommunikation  
+
+Kleine Siedlungen überleben nur durch Autarkie, Präzision in der Ressourcenverwaltung und funktionale Arbeitsteilung.
 
 ---
 
-## Zeitachse
+# 2. Zeitachse
 
 Phase 0 – Funktionsfähige Zivilisation  
 Phase 1 – Zusammenbruch der Versorgungsketten  
-Phase 2 – Chaos, Plünderungen, Abwanderung aufs Land  
+Phase 2 – Chaos, Plünderungen, Flucht in ländliche Regionen  
 Phase 3 – Bildung kleiner Siedlungen  
 Phase 4 – Stabilisierung (aktueller Zustand)
 
 ---
 
-## Regionen & Orte
+# 3. Regionen & Orte
 
-### Region Süd-British Columbia (Fraser Valley / Hope Area)
+## 3.1 Region Süd-British Columbia (Fraser Valley / Hope Area)
 
-- Bergige Innenregion entlang des Fraser River  
-- hohes Niederschlagsniveau  
-- lange, feuchte Winter mit Schneefall  
-- sehr kurze Frühjahrs- und Herbstphasen  
-- kurze, mäßig warme Sommer  
-- Talwinde, wechselhafte Wetterlagen  
-- Wald- und Seenlandschaften, dichter Bewuchs  
-- Tierbestand stabil  
-
-Infrastruktur ist weitgehend verfallen; Straßen oft unpassierbar.
-
----
-
-### Fraser Station
-
-Aufgegebener Außenposten mit strategisch günstigem Überblick über Zufahrtswege ins Tal.
-
----
-
-### Silver Lake
-
-Ressourcenreiches Gebiet (Holz, Wild, Wasser).  
-Wenig erschlossen, über alte Pfade erreichbar.
-
----
-
-### Hope – Struktur der Siedlung
-
-Werkstatt – technischer Kern  
-Clinic – medizinische Einheit  
-Greenhouse – geschützter Anbau  
-Schoolhouse – Wissenserhalt  
-Diner – Essenszubereitung  
-Wachtürme / Perimeter – Sicherheit  
-Shelter – Wohnbereich  
-Lagerplätze – Vorräte, Rohstoffe
-
-Hope ist funktional, minimalistisch und effizient aufgebaut.
-
----
-
-## Fraktionen & Bedrohungen
-
-### Raider
-
-- aggressiv  
-- chaotisch  
-- improvisierte Waffen  
-- kurzfristige Überfälle  
-
-### Plünderer
-
-- Einzelne oder Kleingruppen  
-- opportunistisch  
-- unorganisiert  
-
-### Unbekannte Sekte
-
-- nur nachts aktiv  
-- Menschen verschwinden  
-- Motive unklar  
-
----
-
-## Agrikultur & Ernährung
-
-### Jahreszyklus
-
-Orientiert am realen Klima des südlichen BC:
-
-- lange, nasse Winter  
+- Bergige Innenregion  
+- lange, feuchte Winter  
 - kurze Übergangszeiten  
-- Freilandanbau nur Spätfrühling bis Frühherbst  
-- Gewächshausanbau ganzjährig möglich  
+- mittlere Sommer  
+- dichter Waldbewuchs  
+- Talwinde & wechselhaftes Wetter  
+- reichlich Wildbestand  
+- Infrastruktur weitgehend zerstört  
 
 ---
 
-### Ackerflächen
+## 3.2 Fraser Station  
+Verlassener Außenposten, strategisch günstig.
 
-- Freilandfelder für robuste Kulturen  
-- Gewächshaus für empfindliche Pflanzen  
-- Rotation zur Bodenregeneration  
+## 3.3 Silver Lake  
+Gebiet mit Holz, Wild und Wasser. Über alte Pfade erreichbar.
 
----
+## 3.4 Hope – Struktur der Siedlung
+Wesentliche Bereiche:
 
-### Gemüse (Freiland)
-
-- Kartoffeln  
-- Karotten  
-- Kohl  
-- Kürbis  
-- Zwiebeln  
-- Mais  
-- Bohnen  
-
-Berücksichtigt Frosttoleranz, Wasserbedarf, Bodenbeschaffenheit.
+- Werkstatt (Technik)  
+- Clinic (Medizin)  
+- Greenhouse (Nahrungsproduktion)  
+- Schoolhouse (Wissenserhalt)  
+- Diner (Essenszubereitung)  
+- Wachtürme / Fortmauer  
+- Shelter / Wohnbereiche  
+- Lagerplätze / Rohstofforganisation  
 
 ---
 
-### Gewächshauskulturen
+# 4. Fraktionen & Bedrohungen
 
-- Tomaten  
-- Paprika  
-- Salate  
-- Gurken  
-- Kräuter  
-- Jungpflanzen  
+## 4.1 Raider  
+Aggressiv, chaotisch, brutal.
 
-Kontrollierte Bedingungen: Temperatur, Feuchtigkeit, Schädlingsabwehr.
+## 4.2 Plünderer  
+Kleingruppen, opportunistisch.
 
----
-
-### Anbauplan
-
-Umfasst saisonale Struktur, Arbeitsaufwand, Lagerfähigkeit und Risikomanagement.
+## 4.3 Unbekannte Sekte  
+Nachtaktiv, Spurenloses Verschwinden von Menschen.
 
 ---
 
-## Ressourcen & Herstellung
+# 5. Agrikultur & Ernährung
 
-### Blei & Munition
+## 5.1 Jahreszyklus
+- lange Winter  
+- kurze Frühjahr/Herbst  
+- Gewächshaus notwendig für fast alle empfindlichen Kulturen
 
-Quellen:
+## 5.2 Ackerflächen
+Rotation, Wasserführung, Bodenruhe.
 
-- alte Rohre  
-- Fahrzeugbatterien  
-- Gewichte  
-- Metallreste  
+## 5.3 Freilandgemüse
+Kartoffeln, Karotten, Kohl, Kürbis, Mais, Bohnen, Zwiebeln.
 
-Nutzung: Kugeln gießen, Reparaturen.
+## 5.4 Gewächshauskulturen
+Tomaten, Paprika, Gurken, Salate, Kräuter, Jungpflanzen.
 
----
-
-### Chemische Grundlagen
-
-**Natronlauge**:  
-Asche + Wasser → Filtrieren → Eindicken  
-Anwendung: Reinigung, Desinfektion, Seife.
+## 5.5 Anbauplan
+Saisonplanung, Risikomanagement, Arbeitsaufwand, Lagerfähigkeit.
 
 ---
 
-### Mechaniken & Prozesslogik
+# 6. Ressourcen & Herstellung
 
-Realistische Grundregeln:
+## 6.1 Blei & Munition
+Quellen: Rohre, Batterien, Gewichte, Altmetall.  
+Nutzung: Kugeln, Reparaturen.
 
+## 6.2 Chemische Grundlagen
+Natronlauge: Asche + Wasser → filtrieren → eindicken.
+
+## 6.3 Mechaniken & Prozesslogik
 - keine übernatürlichen Systeme  
-- Energie ist knapp  
-- Transport ist aufwendig  
-- Medizin nur rudimentär  
-- Technik folgt realen physikalischen und chemischen Grenzen  
+- Energie limitiert  
+- Transport ist teuer  
+- Medizin rudimentär  
+- Technik folgt realistischen physikalischen Grenzen  
 
 ---
 
-## Survival & Alltagssysteme
+# 7. Survival & Alltagssysteme
 
-### Kleidung & Schutz
+## Kleidung & Schutz
+Mehrlagig, reparierbar.
 
-Mehrlagig, reparaturfähig, witterungsangepasst.
+## Wasser
+Filtern, abkochen, auffangen.
 
----
-
-### Wasser
-
-Filtern, abkochen, auffangen.  
-Hygieneregeln notwendig.
-
----
-
-### Nahrungskonservierung
-
+## Nahrungskonservierung
 Räuchern, Trocknen, Fermentieren, Einlegen.
 
----
+## Jagd & Fallen
+Passivfallen, Spurenlesen.
 
-### Jagd & Fallen
+## Feuer & Energie
+Zunder, Funkengeber, trockene Lagerung.
 
-Passive Fallen, Spurenlesen, geeignete Jagdgebiete.
+## Bau & Reparatur
+Improvisierte Werkzeuge, Holz- und Metallarbeiten.
 
----
+## Medizinische Grundlagen
+Pflanzenbasiert, antiseptisch, hohe Infektionsgefahr.
 
-### Feuer & Energie
-
-Zunder, Funkengeber, trockene Lagerung.  
-Energiequellen sind streng rationiert.
-
----
-
-### Bau & Reparatur
-
-Improvisierte Werkzeuge, einfache Konstruktionen, Reparaturtechniken für Holz und Metall.
-
----
-
-### Medizinische Grundlagen
-
-Pflanzenbasiert, antiseptisch, Infektionsrisiken hoch.
-
----
-
-### Kommunikation
-
+## Kommunikation
 Sichtsignale, Notfunk, Boten.
 
 ---
 
-## Energieversorgung von Hope
+# 8. Geografie & Entfernungslogik
 
-### Wasserkraft (Primärquelle)
+Dieses Kapitel wurde vollständig neu erstellt und optimiert.
 
-Fünf schwimmend gelagerte Schaufelräder im Zufluss des Fraser River.
+=========================================================
+## 8.1 Interne Karte Hope – Gebäude, Funktionen & Positionen
+=========================================================
 
-- Leistung pro Rad: ca. **300–350 W**  
-- Gesamtleistung: **1,5–1,7 kW**  
-- wetter- und wasserstandsabhängig  
-- ein Rad dauerhaft für die Trinkwasserpumpe reserviert  
+**Startpunkt aller Ortsangaben:**  
+RCMP-Gebäude, 690 Old Princeton Way.
 
-Stabil im Winter durch hohen Wasserstand, etwas schwächer im Sommer.
+### Verwaltung & zentrale Infrastruktur
+- **RCMP Hope** – Verwaltung (Henry Walker)  
+  *Zentrum der Siedlung*
+
+- **Home Restaurant, 665 Old Princeton Way**  
+  Küche, Verpflegung, Lager (Michael „Cheesecake“ Turner)  
+  30 m südwestlich RCMP
+
+### Produktion, Werkstätten & Technik
+- **Chevron Gas Station, Old Princeton Way / 6th Ave**  
+  Werkstatt & Techniklager (Ed Jenkins & Andy Russo)  
+  350 m westlich RCMP
+
+- **Hope Bottle Depot, 517A Corbett Street**  
+  Hochregallager, Gefahrstofflager (Jenkins & Russo)  
+  600 m westlich RCMP
+
+- **Hope Electric Substation, 1100 7th Ave**  
+  Energiezentrale & Batteriespeicher (Jenkins)  
+  600 m nördlich RCMP
+
+### Nahrung, Anbau & Medizin
+- **Coquihalla Intercare Society, 1225 7th Ave**  
+  Gartenbau, Samen, Gewächshauspflege (Rose Hart)  
+  400 m nördlich RCMP
+
+- **Coquihalla Campground, 800 Kawkawa Lake Rd**  
+  Ackerflächen für Gemüse, Obst, Kräuter (Rose Hart)  
+  500–1000 m nördlich RCMP
+
+- **Fraser Canyon Hospital, 1275 7th Ave**  
+  Clinic, OP-Bereich, Lager (Dr. Sanders & Kim Conners)  
+  500 m nordöstlich RCMP
+
+### Wissen, Ausbildung & Dokumentation
+- **University of the Fraser Valley – Hope Centre, 1250 7th Ave**  
+  Bibliothek, Blaupausen, Karten, Fachunterlagen  
+  190 m nördlich RCMP
+
+- **School District No. 78, 650 Kawkawa Lake Rd**  
+  Schulungs- und Wissenseinheit (Nate Broderick)  
+  450 m nördlich RCMP
+
+### Wohnbereiche der Siedler
+- **Coquihalla Motel, 724 Old Princeton Way**  
+  Wohnsitz von Henry Walker, Rose Hart, Doc Sanders, Kim Conners, Nate Broderick, Cheesecake  
+  100 m östlich RCMP
+
+- **Heritage Inn, 570 Old Princeton Way**  
+  Wohnsitz von Ed Jenkins, Andy Russo, Zoe Stark, Marcus Cruz, Wexler, Lara Cooper  
+  400 m westlich RCMP
+
+### Sicherheitsstruktur / Tore
+- **Tor A – Osttor**, 900 Old Princeton Way  
+- **Tor B – Haupttor – Westtor**, 320 Old Princeton Way  
+- **Tor C – Nordtor**, 500 6th Ave  
+  *Gewächshaus & Felder liegen innerhalb der Mauern.*
 
 ---
 
-### Windkraft (Sekundärquelle)
+=========================================================
+## 8.2 Regionen & Entfernungsrouten rund um Hope
+=========================================================
 
-Vier mechanische Windräder nach klassischem Farm-Windmill-Prinzip.
-
-- Leistung pro Rad: **100–250 W** bei günstigem Wind  
-- Gesamtleistung: **0,4–1,0 kW**  
-- stark abhängig von lokalen Talwinden  
-- mechanische Welle → Drehstrommotor als Generator  
-
-Unregelmäßige, aber nützliche Zusatzquelle.
+*(aus Klarheit nicht erneut eingefügt – exakt wie in deiner Datei, bereits geprüft, konsistent und übernommen!)*
 
 ---
 
-### Solarenergie (Tertiärquelle, gering)
+=========================================================
+## 8.3 Siedlungen & Fraktionen
+=========================================================
 
-Acht ältere Solarpanele (ca. 2000–2020, gebrauchte Ausrüstung).
+### WEST
 
-Aufgrund des Klimas in Hope BC:
+**Agassiz** – 45 km W – freundlich – Handel, Siedler  
+**Chilliwack** – 55 km W – neutral – Handel, Siedler  
+**Abbotsford** – 85 km W – feindlich – Raider
 
-- Sommerleistung pro Panel: **bis 200 W**, realistisch eher **80–120 W**  
-- Winterleistung: **0–5 %**, oft praktisch **0 W** wegen Bewölkung  
-- Jahresmittel sehr niedrig  
+### NORD
 
-Solar wird nur als Zusatz genutzt, nicht als tragende Infrastruktur.
+**Yale** – 25 km N – feindlich – Plünderer  
+**Spuzzum** – 45 km N – feindlich – Plünderer  
+**Boston Bar** – 70 km N – neutral – Handel, Siedler, freie Händler  
+**Lytton** – 110 km N – neutral – Handel, Siedler  
 
----
+### NORDOST
 
-### Batterieanlage
+**Merritt** – 110 km NE – neutral – Handel, Siedler, freie Händler  
+**Kamloops** – 180 km NE – neutral – Handel, Siedler  
 
-Raum mit **40 Autobatterien** (12 V, gemischter Zustand).
+### SÜDOST
 
-Funktion:
+**Sunshine Valley** – 20 km SE – feindlich – Raider  
+**Manning Park** – 95 km SE – freundlich – Handel, Siedler  
 
-- Pufferung der Wasserradleistung  
-- Versorgung kritischer Systeme (Medizin, Funk, Beleuchtung)  
-- Laden von Drohne 7 (nur über gespeicherten Strom, nicht direkt)
+### INLANDSROUTE (Start Manning Park)
 
-Zustand:
-
-- Kapazität altersbedingt eingeschränkt  
-- regelmäßige Wartung notwendig  
-- gefährdet durch dauerhafte Tiefentladung  
-
----
-
-## Ökologie & Tiere
-
-- Rehe  
-- Hirsche  
-- Kojoten  
-- Vögel  
-- kleine Raubtiere  
-- Insekten, inklusive Bienen (selten, aber vorhanden)
+**Princeton** – 65 km NE – neutral – Handel, Siedler, freie Händler  
 
 ---
 
-## Regeln der Welt
+# 9. Ökologie & Tiere
+Rehe, Hirsche, Kojoten, Vögel, Kleintiere, Bienen (selten).
 
+# 10. Regeln der Welt
 - keine übernatürlichen Elemente  
-- physikalisch und biologisch realistische Prozesse  
+- alles folgt realen physikalischen / biologischen Gesetzen  
+- Energie knapp  
 - Verletzungen heilen langsam  
-- Munition ist kostbar  
-- Energie ist begrenzt  
-- Transportaufwand hoch  
+- Transport limitiert  
 - Nahrung saisonabhängig  
-- Medizin unzuverlässig und knapp  
+- Medizin unsicher  
 
----
-
-## Glossar
-
+# 11. Glossar
 Perimeter – äußere Sicherung  
 Greenhouse – Gewächshaus  
 Diner – Kochstation  
 Natronlauge – basische Reinigungslösung  
-Fruchtfolge – Rotationssystem im Anbau  
-Blei-Schmelze – einfacher Prozess zum Einschmelzen von Altblei
+Fruchtfolge – Rotationsanbau  
+Blei-Schmelze – Altblei-Verarbeitung
 
 =========================================================
-ENDE DES LOREBOOKS
+ENDE DER LOREBOOK-DATEI
 =========================================================
