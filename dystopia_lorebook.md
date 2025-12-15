@@ -194,8 +194,6 @@ Sichtsignale, Notfunk, Boten.
 
 # 8. Geografie & Entfernungslogik
 
-Dieses Kapitel wurde vollständig neu erstellt und optimiert.
-
 =========================================================
 ## 8.1 Interne Karte Hope – Gebäude, Funktionen & Positionen
 =========================================================
@@ -259,7 +257,6 @@ RCMP-Gebäude, 690 Old Princeton Way.
 - **Tor A – Osttor**, 900 Old Princeton Way  
 - **Tor B – Haupttor – Westtor**, 320 Old Princeton Way  
 - **Tor C – Nordtor**, 500 6th Ave  
-  *Gewächshaus & Felder liegen innerhalb der Mauern.*
 
 ---
 
@@ -267,7 +264,11 @@ RCMP-Gebäude, 690 Old Princeton Way.
 ## 8.2 Regionen & Entfernungsrouten rund um Hope
 =========================================================
 
-
+### Hope Lookout  
+Richtung: Süden  
+Entfernung: ca. 2,5 km  
+Route: Wandertrail → Old Princeton Way  
+Funktion: Blockhütte
 
 ---
 
