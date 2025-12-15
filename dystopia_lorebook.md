@@ -6,59 +6,36 @@ Weltüberblick
 Zeitachse
 
 Regionen & Orte
-
-3.1 Region Süd British Columbia (Kanada)
-
+3.1 Region Süd-British Columbia (Fraser Valley / Hope Area)
 3.2 Fraser Station
-
 3.3 Silver Lake
-
 3.4 Hope – Struktur der Siedlung
 
 Fraktionen & Bedrohungen
-
 4.1 Raider
-
 4.2 Plünderer
-
 4.3 Unbekannte Sekte
 
 Agrikultur & Ernährung
-
 5.1 Jahreszyklus
-
 5.2 Ackerflächen
-
 5.3 Gemüse (Freiland)
-
 5.4 Gewächshauskulturen
-
 5.5 Anbauplan
 
 Ressourcen & Herstellung
-
 6.1 Blei & Munition
-
 6.2 Chemische Grundlagen
-
 6.3 Mechaniken & Prozesslogik
 
 Survival & Alltagssysteme
-
 7.1 Kleidung & Schutz
-
 7.2 Wasser
-
 7.3 Nahrungskonservierung
-
 7.4 Jagd & Fallen
-
 7.5 Feuer & Energie
-
 7.6 Bau & Reparatur
-
 7.7 Medizinische Grundlagen
-
 7.8 Kommunikation
 
 Ökologie & Tiere
@@ -66,341 +43,335 @@ Survival & Alltagssysteme
 Regeln der Welt
 
 Glossar
+=========================================================
 
 ## Weltüberblick
 
-Dystopia spielt im südlichen Teil von British Columbia nach mehreren Krisen, die zum Zusammenbruch staatlicher Strukturen führten. Die Region ist weiterhin bewohnbar, jedoch geprägt von:
+Dystopia spielt im südlichen British Columbia nach mehreren Krisen, die staatliche Strukturen und Versorgungsketten zusammenbrechen ließen.  
+Die Region ist bewohnbar, aber geprägt durch:
 
-instabiler Infrastruktur
+- instabile Infrastruktur  
+- eingeschränkte Energiequellen  
+- begrenzte Landwirtschaft  
+- fragmentierte Bevölkerung  
+- Bedrohung durch Raider und Plünderer  
+- schwierige Kommunikation  
 
-eingeschränkter Energie
+Siedlungen überleben durch Autarkie, Improvisation und strenge Ressourcenverwaltung.
 
-begrenzter Landwirtschaft
-
-fragmentierter Bevölkerung
-
-Gefahr durch Raider und Plünderer
-
-schwierigen Kommunikationswegen
-
-Kleine Siedlungen sichern ihr Überleben durch Autarkie, Improvisation und strenge Ressourcenverwaltung.
+---
 
 ## Zeitachse
 
-Phase 0 – Funktionsfähige Zivilisation
-
-Phase 1 – Zusammenbruch der Versorgungsketten
-
-Phase 2 – Chaos, Plünderungen, Abwanderung aufs Land
-
-Phase 3 – Bildung kleiner Siedlungen
-
+Phase 0 – Funktionsfähige Zivilisation  
+Phase 1 – Zusammenbruch der Versorgungsketten  
+Phase 2 – Chaos, Plünderungen, Abwanderung aufs Land  
+Phase 3 – Bildung kleiner Siedlungen  
 Phase 4 – Stabilisierung (aktueller Zustand)
 
+---
+
 ## Regionen & Orte
-### Region British Columbia
 
-Bergig, Flüsse, windreich
+### Region Süd-British Columbia (Fraser Valley / Hope Area)
 
-Kalte lange Winter, normale Sommer
+- Bergige Innenregion entlang des Fraser River  
+- hohes Niederschlagsniveau  
+- lange, feuchte Winter mit Schneefall  
+- sehr kurze Frühjahrs- und Herbstphasen  
+- kurze, mäßig warme Sommer  
+- Talwinde, wechselhafte Wetterlagen  
+- Wald- und Seenlandschaften, dichter Bewuchs  
+- Tierbestand stabil  
 
-Zersetzte Infrastruktur
+Infrastruktur ist weitgehend verfallen; Straßen oft unpassierbar.
 
-Wälder, Täler, Seen
-
-Tierbestand weitgehend vorhanden
+---
 
 ### Fraser Station
 
-Ein verlassener, aber strategisch günstiger Außenposten.
+Aufgegebener Außenposten mit strategisch günstigem Überblick über Zufahrtswege ins Tal.
+
+---
 
 ### Silver Lake
 
-Gebiet mit nutzbaren Ressourcen (Holz, Wild, Wasser).
+Ressourcenreiches Gebiet (Holz, Wild, Wasser).  
+Wenig erschlossen, über alte Pfade erreichbar.
+
+---
 
 ### Hope – Struktur der Siedlung
 
-Zentrale Bereiche:
+Werkstatt – technischer Kern  
+Clinic – medizinische Einheit  
+Greenhouse – geschützter Anbau  
+Schoolhouse – Wissenserhalt  
+Diner – Essenszubereitung  
+Wachtürme / Perimeter – Sicherheit  
+Shelter – Wohnbereich  
+Lagerplätze – Vorräte, Rohstoffe
 
-Werkstatt – technischer Kern
+Hope ist funktional, minimalistisch und effizient aufgebaut.
 
-Clinic – medizinische Einheit
-
-Greenhouse – wettergeschützte Kulturen
-
-Schoolhouse – Wissensvermittlung
-
-Diner – Zubereitung von Nahrung
-
-Wachtürme / Perimeter – Außensicherung
-
-Shelter / Wohnbereich – Rückzugsräume
-
-Lagerplätze – Vorräte, Schrott, Rohstoffe
-
-Hope ist funktional, minimalistisch und auf Effizienz ausgelegt.
+---
 
 ## Fraktionen & Bedrohungen
+
 ### Raider
 
-Aggressiv, chaotisch, unstrukturiert
-
-Improvisierte Waffen
-
-Überfälle und Erpressung
+- aggressiv  
+- chaotisch  
+- improvisierte Waffen  
+- kurzfristige Überfälle  
 
 ### Plünderer
 
-Kleine Gruppen oder Einzelgänger
-
-Opportune Diebe
-
-Keine feste Struktur
+- Einzelne oder Kleingruppen  
+- opportunistisch  
+- unorganisiert  
 
 ### Unbekannte Sekte
 
-Operiert nachts
+- nur nachts aktiv  
+- Menschen verschwinden  
+- Motive unklar  
 
-Menschen verschwinden
-
-Herkunft unklar
+---
 
 ## Agrikultur & Ernährung
+
 ### Jahreszyklus
 
-Klimatisch an Nordkalifornien angelehnt.
+Orientiert am realen Klima des südlichen BC:
+
+- lange, nasse Winter  
+- kurze Übergangszeiten  
+- Freilandanbau nur Spätfrühling bis Frühherbst  
+- Gewächshausanbau ganzjährig möglich  
+
+---
 
 ### Ackerflächen
 
-Freilandfelder
+- Freilandfelder für robuste Kulturen  
+- Gewächshaus für empfindliche Pflanzen  
+- Rotation zur Bodenregeneration  
 
-Gewächshaus (ganzjährig nutzbar)
+---
 
 ### Gemüse (Freiland)
 
-(Basierend auf deiner Datei)
+- Kartoffeln  
+- Karotten  
+- Kohl  
+- Kürbis  
+- Zwiebeln  
+- Mais  
+- Bohnen  
 
-Umfasst u. a.:
+Berücksichtigt Frosttoleranz, Wasserbedarf, Bodenbeschaffenheit.
 
-Kartoffeln
-
-Karotten
-
-Kohl
-
-Kürbis
-
-Zwiebeln
-
-Mais
-
-Bohnen
-
-Frost- und Wasserbedarf
-
-Rotationssysteme
+---
 
 ### Gewächshauskulturen
 
-Tomaten
+- Tomaten  
+- Paprika  
+- Salate  
+- Gurken  
+- Kräuter  
+- Jungpflanzen  
 
-Paprika
+Kontrollierte Bedingungen: Temperatur, Feuchtigkeit, Schädlingsabwehr.
 
-Salate
-
-Gurken
-
-empfindliche Kräuter
-
-Jungpflanzen
-
-Umfasst:
-
-Temperaturbereiche
-
-Wasserzyklen
-
-Schädlingsschutz
+---
 
 ### Anbauplan
 
-(vollständig aus deiner Datei integriert)
+Umfasst saisonale Struktur, Arbeitsaufwand, Lagerfähigkeit und Risikomanagement.
 
-Beinhaltet:
-
-saisonale Planung
-
-Arbeitsaufwand
-
-Risikoabschätzungen
-
-Lagerfähigkeit
-
-Ausfallmanagement
+---
 
 ## Ressourcen & Herstellung
+
 ### Blei & Munition
 
-Bleiquellen:
+Quellen:
 
-alte Rohre
+- alte Rohre  
+- Fahrzeugbatterien  
+- Gewichte  
+- Metallreste  
 
-Fahrzeugbatterien
+Nutzung: Kugeln gießen, Reparaturen.
 
-Gewichte
-
-Metallreste
-
-Anwendungen:
-
-Kugeln gießen
-
-Reparaturarbeiten
+---
 
 ### Chemische Grundlagen
-Natronlauge
 
-hergestellt aus Asche + Wasser
+**Natronlauge**:  
+Asche + Wasser → Filtrieren → Eindicken  
+Anwendung: Reinigung, Desinfektion, Seife.
 
-filtriert & konzentriert
-
-Anwendung: Seife, Desinfektion, Reinigung
+---
 
 ### Mechaniken & Prozesslogik
 
-(aus deiner Datei „Konsistente Ressourcen-Logik“)
+Realistische Grundregeln:
 
-Grundregeln:
+- keine übernatürlichen Systeme  
+- Energie ist knapp  
+- Transport ist aufwendig  
+- Medizin nur rudimentär  
+- Technik folgt realen physikalischen und chemischen Grenzen  
 
-keine übernatürlichen Systeme
-
-Ressourcen begrenzt
-
-Energie schwer zu erzeugen
-
-Transport ist mühsam
-
-medizinische Versorgung ist rudimentär
-
-Technik folgt realen Grenzen
+---
 
 ## Survival & Alltagssysteme
 
-(Aus „Survival Basics“)
-
 ### Kleidung & Schutz
 
-mehrere Schichten
+Mehrlagig, reparaturfähig, witterungsangepasst.
 
-witterungsangepasst
-
-Reparatur notwendig
+---
 
 ### Wasser
 
-Filtern
+Filtern, abkochen, auffangen.  
+Hygieneregeln notwendig.
 
-Abkochen
-
-Auffangen
-
-Grundregeln der Hygiene
+---
 
 ### Nahrungskonservierung
 
-Räuchern
+Räuchern, Trocknen, Fermentieren, Einlegen.
 
-Trocknen
-
-Fermentieren
-
-Einlegen
+---
 
 ### Jagd & Fallen
 
-passive Fallen
+Passive Fallen, Spurenlesen, geeignete Jagdgebiete.
 
-Spurenkunde
-
-geeignete Gebiete
+---
 
 ### Feuer & Energie
 
-Zunder
+Zunder, Funkengeber, trockene Lagerung.  
+Energiequellen sind streng rationiert.
 
-Funkengeber
-
-sichere Lagerung
+---
 
 ### Bau & Reparatur
 
-Improvisierte Werkzeuge
+Improvisierte Werkzeuge, einfache Konstruktionen, Reparaturtechniken für Holz und Metall.
 
-einfache Konstruktionen
-
-Holz- & Metallreparatur
+---
 
 ### Medizinische Grundlagen
 
-Pflanzenbasierte Behandlungen
+Pflanzenbasiert, antiseptisch, Infektionsrisiken hoch.
 
-antiseptische Methoden
-
-Infektionsrisiken
+---
 
 ### Kommunikation
 
-Sichtsignale
+Sichtsignale, Notfunk, Boten.
 
-Notfunk
+---
 
-Botenwesen
+## Energieversorgung von Hope
+
+### Wasserkraft (Primärquelle)
+
+Fünf schwimmend gelagerte Schaufelräder im Zufluss des Fraser River.
+
+- Leistung pro Rad: ca. **300–350 W**  
+- Gesamtleistung: **1,5–1,7 kW**  
+- wetter- und wasserstandsabhängig  
+- ein Rad dauerhaft für die Trinkwasserpumpe reserviert  
+
+Stabil im Winter durch hohen Wasserstand, etwas schwächer im Sommer.
+
+---
+
+### Windkraft (Sekundärquelle)
+
+Vier mechanische Windräder nach klassischem Farm-Windmill-Prinzip.
+
+- Leistung pro Rad: **100–250 W** bei günstigem Wind  
+- Gesamtleistung: **0,4–1,0 kW**  
+- stark abhängig von lokalen Talwinden  
+- mechanische Welle → Drehstrommotor als Generator  
+
+Unregelmäßige, aber nützliche Zusatzquelle.
+
+---
+
+### Solarenergie (Tertiärquelle, gering)
+
+Acht ältere Solarpanele (ca. 2000–2020, gebrauchte Ausrüstung).
+
+Aufgrund des Klimas in Hope BC:
+
+- Sommerleistung pro Panel: **bis 200 W**, realistisch eher **80–120 W**  
+- Winterleistung: **0–5 %**, oft praktisch **0 W** wegen Bewölkung  
+- Jahresmittel sehr niedrig  
+
+Solar wird nur als Zusatz genutzt, nicht als tragende Infrastruktur.
+
+---
+
+### Batterieanlage
+
+Raum mit **40 Autobatterien** (12 V, gemischter Zustand).
+
+Funktion:
+
+- Pufferung der Wasserradleistung  
+- Versorgung kritischer Systeme (Medizin, Funk, Beleuchtung)  
+- Laden von Drohne 7 (nur über gespeicherten Strom, nicht direkt)
+
+Zustand:
+
+- Kapazität altersbedingt eingeschränkt  
+- regelmäßige Wartung notwendig  
+- gefährdet durch dauerhafte Tiefentladung  
+
+---
 
 ## Ökologie & Tiere
 
-Rehe
+- Rehe  
+- Hirsche  
+- Kojoten  
+- Vögel  
+- kleine Raubtiere  
+- Insekten, inklusive Bienen (selten, aber vorhanden)
 
-Hirsche
-
-Kojoten
-
-Vögel
-
-Kleine Raubtiere
-
-Insekten
+---
 
 ## Regeln der Welt
 
-keine übernatürlichen Elemente
+- keine übernatürlichen Elemente  
+- physikalisch und biologisch realistische Prozesse  
+- Verletzungen heilen langsam  
+- Munition ist kostbar  
+- Energie ist begrenzt  
+- Transportaufwand hoch  
+- Nahrung saisonabhängig  
+- Medizin unzuverlässig und knapp  
 
-alle Prozesse folgen realen physikalischen Grenzen
-
-Verletzungen heilen langsam
-
-Munition ist wertvoll
-
-Energie ist knapp
-
-Transport ist limitiert
-
-Essen ist saisonabhängig
-
-Medizin ist unzuverlässig und begrenzt
+---
 
 ## Glossar
 
-Perimeter – äußere Sicherung
-
-Greenhouse – Gewächshaus
-
-Diner – Kochstation
-
-Natronlauge – Basische Flüssigkeit zur Reinigung
-
-Fruchtfolge – Rotationssystem für Anbau
-
-Blei-Schmelze – einfacher Metallschmelzprozess
+Perimeter – äußere Sicherung  
+Greenhouse – Gewächshaus  
+Diner – Kochstation  
+Natronlauge – basische Reinigungslösung  
+Fruchtfolge – Rotationssystem im Anbau  
+Blei-Schmelze – einfacher Prozess zum Einschmelzen von Altblei
 
 =========================================================
 ENDE DES LOREBOOKS
