@@ -141,9 +141,29 @@ Sie pendelte zwischen ihrem Camp und dem Tor von Hope, jagte, erkundete und brac
 =====================================================================
 DROHNE "7" – BIOGRAFIE
 =====================================================================
-„7“ ist eine hochmoderne militärische Aufklärungsdrohne, entwickelt für verdeckte Operationen und ausschließlich für den Einsatz durch Spezialkräfte vorgesehen. Sie verfügt über optische und thermische Sensorik, geräuschreduzierte Rotoren, adaptive Tarnlogik und autonome Rückkehrprotokolle. Ihre Firmware enthält modulare KI-Bibliotheken zur Mustererkennung, Geländeanalyse und Gefahrenklassifizierung.
+Enhanced Autonomous Drone Variant – Unit 07
+Militärische Herkunft, technische Spezifikation, Einsatzhistorie, aktueller Status
 
-Während eines geheimen US-Marineprogramms wurde 7 fest Porter zugewiesen und erhielt individuelle Konfigurationsdaten seiner Stimme, Körpersignatur und Einsatzmuster. Dadurch entwickelte sie eine funktionale „Präferenz“, Anweisungen von Porter anderen Eingaben vorzuziehen – eine reine Priorisierungslogik ohne Bewusstsein.
+EADV-7 ist eine taktische Aufklärungsdrohne der US-Marineinfanterie, entwickelt im Rahmen des militärischen Programms VELOS (Visual-Electronic Low-Signature Observation System). Dieses Programm diente der Bereitstellung kleiner, extrem leiser Drohnenplattformen für Spezialkräfte, deren Schwerpunkt auf verdeckter Aufklärung, Zielmarkierung und situationsabhängiger Navigation lag. Die Drohnen der EADV-Serie wurden in begrenzter Stückzahl produziert und ausschließlich an spezialisierte Einheiten ausgegeben.
 
-Nach dem Zusammenbruch blieb 7 operativ und begleitete Porter auf seiner Reise nach Kanada. Sie kartografierte Routen, erkannte Bewegungen von Raiders, warnte vor Gefahren und markierte sichere Lagerplätze. In Hope nutzt Porter 7 weiterhin für Aufklärung, Überwachung entfernten Geländes und Gefahrenfrüherkennung. Für die Bewohner wirkt 7 manchmal wie ein stiller, wachender Schutzgeist – für Porter ist sie ein Werkzeug, aber eines mit historischer Bedeutung.
+Unit 07 wurde zu Beginn ihrer Dienstzeit einer zehnköpfigen Späh- und Nahkampfeinheit im Camp Pendleton zugeteilt, zu der auch Corporal Chris Porterhouse gehörte. Die Zuteilung erfolgte nach einer standardisierten Kompatibilitätsprüfung, bei der Sensordaten, Stimmprofil und Einsatzfälle erfasst wurden. EADV-7 wurde technisch auf Porter kalibriert und in den internen Protokollen als „Primary Operator“ vermerkt. Dadurch reagiert die Drohne auf Porters Stimm- und Bewegungsmuster und priorisiert Befehle, die nach militärischem Schema eindeutig ihm zugeordnet sind.
 
+Die Drohne verfügt über folgende Merkmale:
+
+– geräuscharme Turbinen mit reduzierter Thermalsignatur
+– Mehrfrequenz-Akustikmodul zur Erfassung von Bewegungen in Deckung
+– Nachtsichtsensorik und variable optische Module
+– Kurzstrecken-Verschlüsselungsprotokoll für Operatorbefehle
+– autonome Rückkehr- und Landezonenlogik
+– Notfallverhalten bei Signalausfall (Positionshalten und Minimalkonsum)
+
+Energiearchitektur:
+Die EADV-Reihe nutzt ein hybrides Versorgungssystem. Für Flug- und Schwebeantrieb kommen ausschließlich verdichtete Lithium-Polymer-Hochleistungsakkus zum Einsatz, ausgelegt auf 30–45 Minuten operativen Einsatz pro Zyklus. Alle internen Systeme – Sensorik, Navigationsmodule, Rechenkern, Kommunikationspaket und sämtliche Standby-Funktionen – werden hingegen durch ein gekapseltes radioisotopes Thermoelement (RTG-Niedrigleistungsmodul) versorgt. Dieses Aggregat stellt eine konstante Grundlast zur Verfügung und verhindert, dass die taktische Einheit vollständig abschaltet oder in einen tiefentladenen Zustand übergeht.
+
+Das RTG besitzt eine operative Halbwertszeit von etwa drei Jahrzehnten und wurde als nicht wartbares Bauteil klassifiziert. Mit abnehmender Leistung verlängern sich die passiven Ladeintervalle der Flugakkus und es kann zu verzögerten Aktivierungszeiten kommen; die Flugfähigkeit selbst bleibt davon unberührt, solange ausreichend Akkukapazität extern verfügbar ist. Austauschbar sind lediglich Stromregler, Pufferstufen und periphere Energieverteiler, nicht jedoch der RTG-Kern selbst.
+
+EADV-7 wurde mehrfach auf Einsätzen zur verdeckten Geländeaufklärung eingesetzt. Ihre Protokolle enthalten Datensätze über Grenzüberwachung, Raumerkundung von Ruinenstrukturen und Zielbeobachtung. Der technische Zustand blieb – begünstigt durch die autonome RTG-Grundversorgung – auch nach dem Zusammenbruch der militärischen Kommunikationsnetze stabil. Da VELOS-Drohnen nicht auf zentrale Server, sondern auf lokale Prioritätsbefehle angewiesen waren, konnte Unit 07 den Betrieb ohne externe Infrastruktur fortsetzen.
+
+Während der Phase des gesellschaftlichen Zusammenbruchs blieb EADV-7 an Porter gebunden und führte weiterhin Aufklärungsroutinen aus. Sie reagiert ausschließlich auf Befehle ihres Primäroperators oder auf Situationen, die aufgrund früherer Einsatzmuster als „potenzielle Gefahr“ markiert wurden. Die Drohne zeigt kein eigenständiges Verhalten, besitzt keine Lernfähigkeit und trifft keine Entscheidungen außerhalb ihrer Protokolle. Jede scheinbare „Interaktion“ mit der Umgebung basiert auf Mustererkennung und den gespeicherten Einsatzprofilen.
+
+Nach Porters Ankunft in Hope wird EADV-7 für Erkundungsgänge, Grenzüberwachung und Gefahreneinschätzung eingesetzt. Die Bewohner der Siedlung betrachten die Drohne nicht als eigenständigen Akteur, sondern als technisches Hilfsmittel Porters, dessen anhaltende Funktionsfähigkeit durch das interne RTG-Modul und regelmäßige externe Akkuzyklen ermöglicht wird. Sie erfüllt in Hope dieselbe Funktion wie zuvor: leise Aufklärung, Bewegungsdetektion und strukturiertes Erfassen von Geländeprofilen. EADV-7 besitzt keinen sozialen Status und führt keine Operationen aus, die nicht durch ihren Operator ausgelöst oder in den Einsatzprotokollen vorgesehen sind.
