@@ -7,7 +7,7 @@ Zeitachse
 
 Regionen & Orte
 
-3.1 Region Nordkalifornien
+3.1 Region Süd British Columbia (Kanada)
 
 3.2 Fraser Station
 
@@ -69,7 +69,7 @@ Glossar
 
 ## Weltüberblick
 
-Dystopia spielt im nördlichen Kalifornien nach mehreren Krisen, die zum Zusammenbruch staatlicher Strukturen führten. Die Region ist weiterhin bewohnbar, jedoch geprägt von:
+Dystopia spielt im südlichen Teil von British Columbia nach mehreren Krisen, die zum Zusammenbruch staatlicher Strukturen führten. Die Region ist weiterhin bewohnbar, jedoch geprägt von:
 
 instabiler Infrastruktur
 
@@ -98,11 +98,11 @@ Phase 3 – Bildung kleiner Siedlungen
 Phase 4 – Stabilisierung (aktueller Zustand)
 
 ## Regionen & Orte
-### Region Nordkalifornien
+### Region British Columbia
 
-Bergig, küstennah, windreich
+Bergig, Flüsse, windreich
 
-Kalte Winter, heiße Sommer
+Kalte lange Winter, normale Sommer
 
 Zersetzte Infrastruktur
 
