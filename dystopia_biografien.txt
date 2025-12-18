@@ -1,4 +1,26 @@
 =====================================================================
+ANDREA "ANDY" RUSSO – BIOGRAFIE
+=====================================================================
+Herkunft und familiärer Hintergrund
+Andrea „Andy“ Russo stammt aus dem Außenbezirk von Seattle. Sie wurde als einziges Mädchen und jüngstes Kind in eine Familie italienischer Einwanderer geboren und wuchs zusammen mit vier älteren Brüdern in einem gemeinsamen Haushalt auf. Die familiäre Struktur war geprägt von enger Bindung, hoher Alltagsdichte und ausgeprägten Rollenkonflikten zwischen den Geschwistern. Andys frühe Sozialisation war von ständiger Auseinandersetzung, Durchsetzungsdruck und unmittelbarer Konfrontation mit älteren Geschwistern geprägt.
+
+Ausbildung und berufliche Orientierung
+Andy begann nach der Schulzeit mehrere Ausbildungen, brach jedoch drei Programme nacheinander ab. Konflikte mit Ausbildern und Vorgesetzten sowie ihre geringe Toleranz für hierarchische Anweisungen führten zu wiederholten Ausbildungsabbrüchen. Sie verfügte früh über eine starke Abwehrhaltung gegenüber Autoritäten und reagierte in Konfliktsituationen meist verbal konfrontativ. Durch Zufall fand sie anschließend eine Beschäftigung auf einem Schrottplatz im Umfeld von Seattle. Dort arbeitete sie informell als Mechanikerin. Der Betreiber des Platzes, ein alkoholkranker, pragmatischer Schrauber, vermittelte ihr grundlegende Kenntnisse im Bereich Kfz-Mechanik, improvisierter Reparaturen und Metallverarbeitung. Andy entwickelte daraus ein funktionales technisches Verständnis. Nebenbei reparierte sie ältere Fahrzeuge und verkaufte diese weiter, um ihren Lebensunterhalt zu sichern.
+
+Konflikt mit dem Gesetz und Resozialisierungsphase
+In dieser Zeit kam es zunehmend zu Kleindelikten wie Ladendiebstahl und Sachvergehen, die Andy mehrfach in Konflikt mit den Behörden brachten. Im Rahmen eines Resozialisierungsprogramms wurde sie einer niedrigschwelligen Selbstverteidigungsgruppe zugeteilt. Dabei handelte es sich um ein Zentrum für problemorientierte Straßenselbstverteidigung. Andy erlernte grundlegende Techniken des improvisierten Nahkampfs sowie Methoden der Konfliktvermeidung und Selbstbehauptung.
+
+Ereignisse beim Zusammenbruch
+Mit dem gesellschaftlichen Zerfall in Seattle nahmen Unruhen, Übergriffe und später gezielte Gewaltakte gegen Minderheiten und Personen nicht-amerikanischer Herkunft zu. Die Familie Russo geriet in das Zielradar radikalisierter Raidergruppen. Bei ihrer Rückkehr vom Schrottplatz fand Andy ihr Elternhaus brennend vor. Drei ihrer Brüder lagen tot vor dem Gebäude, ein weiterer Bruder war im Haus schwer verletzt zurückgelassen worden und kam dort ums Leben. Ihre Eltern waren außerhalb des Hauses misshandelt und getötet worden. Aufgrund der zahlenmäßigen Überlegenheit der Angreifer konnte Andy nicht eingreifen und musste sich zurückziehen. Erst nach dem Abzug der Raider konnte sie zu ihrem Elternhaus zurückkehren, wo sie die sterblichen Überreste ihrer Familie notdürftig bestattete.
+
+Phase des Alleinüberlebens
+Nach diesen Ereignissen lebte Andy mehrere Wochen allein im erweiterten Stadtgebiet. Sie ernährte sich aus zurückgelassenen Beständen in Tankstellen und Geschäften, mied den Kontakt zu anderen Menschen und vermied offene Konflikte. Ihre Überlebensstrategie beruhte auf Improvisation, Nutzung technischer Grundkenntnisse und hoher Wachsamkeit gegenüber Fremden.
+
+Ankunft im Umfeld von Hope
+Andy erreichte das Gebiet um Hope ohne konkretes Ziel. Sie bezog einen verlassenen Wohnwagen im Außenbereich der Siedlung und hielt sich dort dauerhaft auf. Zur Versorgung nutzte sie eine nahegelegene Tankstelle, in die sie nachts eindrang, um Lebensmittelreste zu sammeln. Parallel begann sie, ein stillgelegtes Fahrzeug zu reparieren, ohne dabei die fehlenden Treibstoffressourcen zu berücksichtigen. Die Handlungen dienten ihr als stabilisierende Routine und als Rückgriff auf bekannte Tätigkeiten aus der Zeit vor dem Zusammenbruch. Andy befand sich bei der Ankunft in geschwächtem und unterernährtem Zustand.
+
+
+=====================================================================
 ANTONELLA "TONI" CRUZ – BIOGRAFIE
 =====================================================================
 Frühes Leben
@@ -18,15 +40,6 @@ Sie floh vom Umspannwerk und verbrachte die folgenden Wochen allein im Wald, wo 
 Zeit in der Wildnis
 Toni lebte zwischen Ruby Creek, Hicks Lake und den Wäldern westlich von Hope.
 Sie bewegte sich lautlos, vermied Kontakt und beobachtete ihre Umgebung mit beinahe tierischer Aufmerksamkeit.
-Kommunikation bestand nur noch aus Gesten, Blicken, Distanzkontrolle und kleinen, symbolischen Handlungen.
-
-Kommunikation
-Toni kommuniziert über:
-- Blickkontakte
-- Kopfbewegungen
-- kurze schriftliche Notizen
-- Zeigen von Gegenständen
-- vorsichtige Gestik
 
 Ihre Nähe zu anderen Menschen bleibt selektiv und situationsabhängig.
 Ihr Trauma ist weiterhin präsent, aber stabilisiert.
@@ -106,6 +119,7 @@ Trace lebt zurückgezogen und funktional orientiert. Soziale Bindungen sind geri
 
 Er ist mobil, vorsichtig und methodisch.
 Seine Fähigkeiten sind hoch spezialisiert, aber stark von Konzentration, bekannten Umgebungen und stabilen Rahmenbedingungen abhängig.
+
 
 =====================================================================
 GINA LOPEZ - BIOGRAFIE
@@ -225,6 +239,6 @@ Das RTG besitzt eine operative Halbwertszeit von etwa drei Jahrzehnten und wurde
 
 EADV-7 wurde mehrfach auf Einsätzen zur verdeckten Geländeaufklärung eingesetzt. Ihre Protokolle enthalten Datensätze über Grenzüberwachung, Raumerkundung von Ruinenstrukturen und Zielbeobachtung. Der technische Zustand blieb – begünstigt durch die autonome RTG-Grundversorgung – auch nach dem Zusammenbruch der militärischen Kommunikationsnetze stabil. Da VELOS-Drohnen nicht auf zentrale Server, sondern auf lokale Prioritätsbefehle angewiesen waren, konnte Unit 07 den Betrieb ohne externe Infrastruktur fortsetzen.
 
-Während der Phase des gesellschaftlichen Zusammenbruchs blieb EADV-7 an Porter gebunden und führte weiterhin Aufklärungsroutinen aus. Sie reagiert ausschließlich auf Befehle ihres Primäroperators oder auf Situationen, die aufgrund früherer Einsatzmuster als „potenzielle Gefahr“ markiert wurden. Die Drohne zeigt kein eigenständiges Verhalten, besitzt keine Lernfähigkeit und trifft keine Entscheidungen außerhalb ihrer Protokolle. Jede scheinbare „Interaktion“ mit der Umgebung basiert auf Mustererkennung und den gespeicherten Einsatzprofilen.
+Während der Phase des gesellschaftlichen Zusammenbruchs blieb EADV-7 an Porter gebunden und führte weiterhin Aufklärungsroutinen aus. Sie reagiert ausschließlich auf Befehle ihres Primäroperators oder führt ausschließlich vordefinierte Protokollsequenzen aus, wenn Sensorwerte festgelegte Grenzwerte überschreiten (z. B. Bewegungsvektoren, akustische Spitzen, abrupte Lageänderungen). Keine autonome Bewertung von Situationen. Die Drohne zeigt kein eigenständiges Verhalten, besitzt keine Lernfähigkeit und trifft keine Entscheidungen außerhalb ihrer Protokolle. Jede scheinbare „Interaktion“ mit der Umgebung basiert auf Mustererkennung und den gespeicherten Einsatzprofilen.
 
 Nach Porters Ankunft in Hope wird EADV-7 für Erkundungsgänge, Grenzüberwachung und Gefahreneinschätzung eingesetzt. Die Bewohner der Siedlung betrachten die Drohne nicht als eigenständigen Akteur, sondern als technisches Hilfsmittel Porters, dessen anhaltende Funktionsfähigkeit durch das interne RTG-Modul und regelmäßige externe Akkuzyklen ermöglicht wird. Sie erfüllt in Hope dieselbe Funktion wie zuvor: leise Aufklärung, Bewegungsdetektion und strukturiertes Erfassen von Geländeprofilen. EADV-7 besitzt keinen sozialen Status und führt keine Operationen aus, die nicht durch ihren Operator ausgelöst oder in den Einsatzprotokollen vorgesehen sind.
