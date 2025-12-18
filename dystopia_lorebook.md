@@ -103,14 +103,14 @@ Gebiet mit Holz, Wild und Wasser. Über alte Pfade erreichbar.
 ## 3.4 Hope – Struktur der Siedlung
 Wesentliche Bereiche:
 
-- Werkstatt (Technik)  
-- Clinic (Medizin)  
-- Greenhouse (Nahrungsproduktion)  
-- Schoolhouse (Wissenserhalt)  
-- Diner (Essenszubereitung)  
-- Wachtürme / Fortmauer  
-- Shelter / Wohnbereiche  
-- Lagerplätze / Rohstofforganisation  
+- Werkstattbereich (Technik)  
+- Medizinischer Bereich (Medizin)  
+- Agrarbereich (Nahrungsproduktion)  
+- Wissensbereich (Bildung & Erhalt)  
+- Versorgungsbereich (Essenszubereitung)  
+- Sicherungsanlagen (Wachtürme & Mauern)  
+- Wohnbereiche (Unterkünfte)  
+- Rohstoff- und Lagerbereich  
 
 ---
 
