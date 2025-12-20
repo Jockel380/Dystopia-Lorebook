@@ -843,6 +843,7 @@ Seit dem Zusammenbruch funktioniert keine fest installierte Gebäudetechnik mehr
 - Klimaanlagen und Lüftungssysteme sind nicht mehr in Betrieb.
 - Elektrische Hausinstallationen liefern keinen verlässlichen Strom.
 - Gebäude sind kalt, zugig und oft improvisiert repariert.
+- Sanitärsysteme funktionieren nicht.
 
 Beheizung erfolgt ausschließlich durch:
 - Holzöfen,
