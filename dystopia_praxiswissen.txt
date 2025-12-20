@@ -23,7 +23,8 @@ INHALTSÜBERSICHT
 7. Schlachtung und Verarbeitung
 8. Abfall, Kompost und Entsorgung
 9. Funde von Konserven und Eingemachtem
-10. Energiesystem
+10. Gebäudetechnik und Infrastruktur
+11. Energiesystem
 
 --------------------------------------------------
 1. ANBAUTECHNIKEN
@@ -184,7 +185,6 @@ Natürliche Funde ergänzen den Anbau und die Vorratshaltung.
 Erträge sind saisonabhängig, unzuverlässig und stark vom Wissen abhängig.
 Nicht alle Pflanzen sind überall vorhanden.
 
-
 4.1 BEEREN UND WILDFRÜCHTE
 
 Brombeeren:
@@ -222,7 +222,6 @@ Wildheidelbeeren:
   - schwankende Erträge
   - zeitaufwendig zu sammeln
 
-
 4.2 NÜSSE UND SAMEN
 
 Haselnüsse:
@@ -245,7 +244,6 @@ Kastanien:
 - Hinweise:
   - energiereich
   - nicht überall vorhanden
-
 
 4.3 KRÄUTER UND WILDPFLANZEN
 
@@ -281,7 +279,6 @@ Minze (wild):
 - Hinweise:
   - regional begrenzt
 
-
 4.4 WURZELN UND FEUCHTPLANZEN
 
 Rohrkolben:
@@ -297,7 +294,6 @@ Klette:
 - Hinweise:
   - mühsam zu ernten
 
-
 4.5 PILZE
 
 Essbare Arten (regional bekannt):
@@ -310,7 +306,6 @@ Hinweise:
 - Sammeln erfordert Erfahrung
 - falsche Bestimmung kann tödlich sein
 - Pilze sind nicht verlässlich verfügbar
-
 
 4.6 BÄUME MIT NUTZBAREN BESTANDTEILEN
 
@@ -339,7 +334,6 @@ Wildtiere stellen eine mögliche, aber unsichere Nahrungsquelle dar.
 Vorkommen, Bestände und Erträge sind saisonabhängig und schwanken stark.
 Jagd ist zeitaufwendig und birgt Verletzungsrisiken.
 
-
 5.1 GROESSE SAEUGETIERE
 
 Hirsche (Weisswedel- und Maultierhirsch):
@@ -366,7 +360,6 @@ Schwarzbaer:
   - Fleisch und Fett nutzbar
   - nicht primaere Nahrungsquelle
 
-
 5.2 MITTELGROSSE SAEUGETIERE
 
 Waschbaer:
@@ -390,7 +383,6 @@ Stachelschwein:
   - Stacheln gefaehrlich
   - gute Fleischquelle
 
-
 5.3 KLEINE SAEUGETIERE
 
 Schneeschuhhase:
@@ -412,7 +404,6 @@ Murmeltier:
 - Hinweise:
   - regional begrenzt
   - nicht ueberall vorhanden
-
 
 5.4 VOEGEL
 
@@ -436,7 +427,6 @@ Wildtruthahn:
   - wertvolle Beute
   - nicht flaechendeckend
 
-
 5.5 FISCHE UND WASSERTIERE
 
 Lachsarten:
@@ -457,7 +447,6 @@ Weitere Weissfische:
 - Seen und ruhige Gewaesser
 - Hinweise:
   - ergaenzend nutzbar
-
 
 5.6 TIERE MIT ERHOEHTEM RISIKO
 
@@ -481,6 +470,7 @@ Puma:
   - keine Jagdbeute
   - potenzielle Bedrohung
 
+
 --------------------------------------------------
 6. NAHRUNGSKONSERVIERUNG – PRAKTISCHE VERFAHREN
 --------------------------------------------------
@@ -488,7 +478,6 @@ Puma:
 Konservierung dient dem zeitlich begrenzten Erhalt von Nahrung.
 Erfolg ist abhängig von Hygiene, Wetter, Material und Erfahrung.
 Fehler führen zu Verderb oder Gesundheitsrisiken.
-
 
 6.1 RAEUCHERN
 
@@ -506,7 +495,6 @@ Hinweise:
 - ungleichmaessiger Rauch fuehrt zu Verderb
 - Nachraeuchern erforderlich
 - kein vollstaendiger Schutz vor Verderb
-
 
 6.2 TROCKNEN
 
@@ -527,7 +515,6 @@ Hinweise:
 - ungleichmaessiges Trocknen haeufig
 - regelmaessige Kontrolle notwendig
 
-
 6.3 SALZEN
 
 Anwendung:
@@ -543,7 +530,6 @@ Hinweise:
 - falsche Dosierung fuehrt zu Verderb
 - entzieht Nahrung Feuchtigkeit
 - Geschmack stark veraendert
-
 
 6.4 EINLEGEN UND FERMENTIEREN
 
@@ -561,7 +547,6 @@ Hinweise:
 - Fehlgaerung moeglich
 - Geruch und Geschmack veraendern sich stark
 - nicht jede Charge gelingt
-
 
 6.5 EINKOCHEN
 
@@ -581,7 +566,6 @@ Hinweise:
 - Undichtigkeiten fuehren zu Verderb
 - Haltbarkeit begrenzt
 
-
 6.6 LAGERUNG
 
 Kurzfristige Lagerung:
@@ -598,6 +582,7 @@ Hinweise:
 - Feuchtigkeit kritisch
 - Vorratsverluste normal
 
+
 --------------------------------------------------
 7. SCHLACHTUNG UND VERARBEITUNG
 --------------------------------------------------
@@ -605,7 +590,6 @@ Hinweise:
 Schlachtung und Verarbeitung dienen der Nahrungsgewinnung, sind jedoch körperlich belastend
 und mit hygienischen sowie gesundheitlichen Risiken verbunden.
 Fehler können zu Verderb oder Krankheiten führen.
-
 
 7.1 ALLGEMEINE GRUNDSAETZE
 
@@ -615,7 +599,6 @@ Fehler können zu Verderb oder Krankheiten führen.
 - Blut, Innereien und Abfaelle ziehen Schaedlinge an
 - Verarbeitung muss zeitnah erfolgen
 
-
 7.2 TOETUNG
 
 Hinweise:
@@ -623,7 +606,6 @@ Hinweise:
 - unzureichende Toetung fuehrt zu Stress und Verletzungsgefahr
 - grosse Tiere sind besonders gefaehrlich
 - Fehlversuche kommen vor
-
 
 7.3 AUSBLUTEN
 
@@ -635,7 +617,6 @@ Hinweise:
 - Blut ist schwer sauber zu handhaben
 - hygienische Bedingungen oft unzureichend
 
-
 7.4 AUSWEIDEN
 
 - Entfernung der Innereien kurz nach der Toetung
@@ -646,7 +627,6 @@ Hinweise:
 - Geruch und Insekten problematisch
 - Innereien nur begrenzt nutzbar
 
-
 7.5 ZERLEGUNG
 
 - Zerlegung in handhabbare Fleischstuecke
@@ -656,7 +636,6 @@ Hinweise:
 - stumpfe Messer erhoehen Verletzungsrisiko
 - Knochenarbeit ist kraeftezehrend
 - Ungleichmaessige Stuecke normal
-
 
 7.6 VERARBEITUNG VON NEBENERZEUGNISSEN
 
@@ -674,7 +653,6 @@ Knochen:
 - Nutzung fuer Werkzeuge oder Bruhen
 - Splittergefahr
 
-
 7.7 FLEISCHVERDERB UND RISIKEN
 
 - Fleisch verdirbt schnell
@@ -686,6 +664,7 @@ Hinweise:
 - Unsicherheit ueber Genusstauglichkeit haeufig
 - Wegwerfen notwendig
 
+
 --------------------------------------------------
 8. ABFALL, KOMPOST UND ENTSORGUNG
 --------------------------------------------------
@@ -693,7 +672,6 @@ Hinweise:
 Abfall entsteht bei Nahrung, Verarbeitung, Reparaturen und Alltag.
 Unsachgemaesser Umgang fuehrt zu Krankheiten, Schaedlingen und Konflikten.
 Nicht jeder Abfall laesst sich sinnvoll weiterverwerten.
-
 
 8.1 ORGANISCHE ABFAELLE
 
@@ -708,7 +686,6 @@ Hinweise:
 - beginnen schnell zu faulen
 - Geruchsbelastung unvermeidlich
 - Lagerung nur kurzfristig moeglich
-
 
 8.2 KOMPOSTIERUNG
 
@@ -729,7 +706,6 @@ Hinweise:
 - falsche Mischung fuehrt zu Faeulnis
 - nicht alle organischen Abfaelle geeignet
 
-
 8.3 PROBLEMATISCHE ABFAELLE
 
 Nicht oder nur begrenzt kompostierbar:
@@ -743,7 +719,6 @@ Hinweise:
 - Krankheitsrisiken
 - getrennte Entsorgung notwendig
 - oft Vergraben oder Verbrennen
-
 
 8.4 VERGRABEN UND VERBRENNEN
 
@@ -765,7 +740,6 @@ Hinweise:
 - Brandgefahr
 - nicht vollstaendige Vernichtung moeglich
 
-
 8.5 NICHT ORGANISCHE ABFAELLE
 
 Arten:
@@ -780,7 +754,6 @@ Hinweise:
 - Entsorgung oft ungelöst
 - Anhaeufung unvermeidlich
 
-
 8.6 HYGIENE UND RISIKEN
 
 - Abfall zieht Schaedlinge an
@@ -793,6 +766,7 @@ Hinweise:
 - Verletzungsrisiken durch scharfe Abfaelle
 - Geruch und Ungeziefer verursachen Konflikte
 
+
 --------------------------------------------------
 9. FUNDE VON KONSERVEN UND EINGEMACHTEM
 --------------------------------------------------
@@ -800,7 +774,6 @@ Hinweise:
 Konserven und eingemachte Lebensmittel stammen aus der Zeit vor dem Zusammenbruch.
 Sie sind nicht reproduzierbar und stellen eine endliche Ressource dar.
 Zustand und Genusstauglichkeit sind oft unklar.
-
 
 9.1 ARTEN VON FUNDEN
 
@@ -813,7 +786,6 @@ Hinweise:
 - Funde sind selten und unregelmaessig
 - Herkunft und Alter meist unbekannt
 - Verpackungen oft beschaedigt
-
 
 9.2 RISIKEN
 
@@ -833,7 +805,6 @@ Hinweise:
 - Abkochen bietet keinen sicheren Schutz
 - Fehlentscheidungen koennen toedlich sein
 
-
 9.3 UMGANG MIT FUNDEN
 
 - vorsichtige Begutachtung notwendig
@@ -844,7 +815,6 @@ Hinweise:
 - Wegwerfen ist oft die sicherere Option
 - Hunger fuehrt zu Fehlentscheidungen
 - Vergiftung ist gefaehrlicher als kurzfristiger Nahrungsmangel
-
 
 9.4 BEDEUTUNG FUER DIE VERSORGUNG
 
@@ -857,8 +827,42 @@ Hinweise:
 - falsche Sicherheit moeglich
 - Abhaengigkeit problematisch
 
+
 --------------------------------------------------
-10. ENERGIESYSTEM
+10. INFRASTRUKTUR UND GEBÄUDETECHNIK
+--------------------------------------------------
+
+Vor dem Zusammenbruch verfügten alle Gemeinden über vollständig asphaltierte Straßen, Gehwege und Zufahrten.
+Seit dem Zusammenbruch funktioniert keine fest installierte Gebäudetechnik mehr.
+
+10.1 GEBÄUDETECHNIK
+
+- Zentralheizungen sind unbrauchbar.
+- Heizkörper enthalten kein Wasser und keine Wärme.
+- Warmwasserleitungen, Pumpen und Boiler sind funktionslos.
+- Klimaanlagen und Lüftungssysteme sind nicht mehr in Betrieb.
+- Elektrische Hausinstallationen liefern keinen verlässlichen Strom.
+- Gebäude sind kalt, zugig und oft improvisiert repariert.
+
+Beheizung erfolgt ausschließlich durch:
+- Holzöfen,
+- Metallfässer mit Feuerstellen,
+- kleine offene Feuerstellen (nur in sicheren Räumen),
+- selten durch mitgebrachte mobile Wärmequellen (falls verfügbar).
+
+10.2 STRASSEN UND WEGE
+
+- Asphaltstraßen existieren weiterhin, sind jedoch stark beschädigt.
+- Risse, Ausbrüche, Wurzelschäden und Überwucherung sind normal.
+- Viele Straßen sind mit Schutt, Blättern, Ästen und Erdmaterial bedeckt.
+- Markierungen (Mittellinien, Seitenlinien) sind verblasst oder kaum sichtbar.
+- Schotter- oder Erdpisten existieren nur außerhalb der Ortschaften (Wald, Berge, Zufahrtswege).
+- Innerhalb von Ortschaften gibt es KEINE neu entstandenen Schotterwege.
+- Fahrzeuge bewegen sich nur eingeschränkt, da Straßen häufig blockiert, verschüttet oder unpassierbar sind.
+
+
+--------------------------------------------------
+11. ENERGIESYSTEM
 --------------------------------------------------
 
 Die Stromversorgung von Hope basiert auf improvisierten und wartungsintensiven Systemen.
@@ -866,8 +870,7 @@ Elektrische Energie steht nur begrenzt zur Verfügung und ist nicht dauerhaft ve
 Leistung, Verfügbarkeit und Stabilität hängen von Wetter, Wasserstand, Zustand der Technik
 und verfügbarem Material ab.
 
-
-10.1 ENERGIEQUELLEN
+11.1 ENERGIEQUELLEN
 
 Wasserkraft:
 - 4 unterschlächtige Wasserräder
@@ -896,8 +899,7 @@ Erfahrungswerte:
 - Langfristiger Beitrag gering und nicht planbar
 - Windenergie eignet sich vor allem zum Laden von Batterien
 
-
-10.2 GESAMTLEISTUNG
+11.2 GESAMTLEISTUNG
 
 Unter günstigen Bedingungen:
 - durchschnittliche elektrische Gesamterzeugung: ca. 1,5 kW
@@ -908,8 +910,7 @@ Hinweise:
 - Ausfälle einzelner Komponenten sind häufig
 - Stromüberschuss tritt selten auf
 
-
-10.3 ENERGIESPEICHER
+11.3 ENERGIESPEICHER
 
 - ca. 40 Batterien aus PKW-, Landmaschinen- und LKW-Bestand
 - gemischter Zustand und unterschiedliche Kapazitäten
@@ -923,8 +924,7 @@ Hinweise:
 - Ladeverluste sind hoch
 - Speicher ersetzen keine Erzeugung
 
-
-10.4 NUTZUNG UND PRIORISIERUNG
+11.4 NUTZUNG UND PRIORISIERUNG
 
 Elektrische Energie wird nicht ständig genutzt.
 Verbrauch erfolgt bewusst und zeitlich begrenzt.
@@ -940,8 +940,7 @@ Weitere elektrische Nutzung:
 - nach Absprache
 - abhängig vom Ladezustand der Batterien
 
-
-10.5 GRENZEN DES SYSTEMS
+11.5 GRENZEN DES SYSTEMS
 
 - keine moderne Grundlastversorgung
 - keine dauerhafte Versorgung aller Gebäude
@@ -951,6 +950,13 @@ Hinweise:
 - viele Funktionen müssen ohne Strom auskommen
 - mechanische und thermische Alternativen sind entscheidend
 - Strommangel ist Teil des Alltags
+
+--------------------------------------------------
+HINWEIS
+--------------------------------------------------
+
+Räume sind in der Regel kalt.
+Jede Gebäudetechnik gilt als teilweise vorhanden aber ohne Funktion
 
 --------------------------------------------------
 HINWEIS
